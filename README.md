@@ -1,7 +1,5 @@
 # グループワーク
 
-
-
 - [x] グループ課題を受け取る
 - [ ] GitHub上に，自分の学生番号のブランチを作る
       ![make branch on GitHub](Fig/githubMakeBranch.png)

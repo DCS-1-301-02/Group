@@ -1,8 +1,9 @@
-# 通学経路
+# 拓殖太郎の通学経路
+
+[メンバー表に戻る](member.md#メンバー表)
 
 ```graphviz
 digraph {
-    rankdir=LR;
     edge [dir=both]
 
     // 例

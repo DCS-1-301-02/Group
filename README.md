@@ -9,4 +9,4 @@
 - [ ] 他のメンバーの変更を自分のPCに取り込む
 - [ ] 教員に確認してもらう
 
-[スライド資料](Fig/B04GroupWork.pdf)
+[スライド資料](Fig/B04GroupWorkForB.pdf)
